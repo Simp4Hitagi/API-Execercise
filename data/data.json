@@ -1,0 +1,23 @@
+{
+    "laptop": [
+        {
+            "id": 1,
+            "brand": "Dell",
+            "serialNumber": "12345A",
+            "username": "NotaHuman"
+
+        },
+        {
+            "id": 2,
+            "brand": "Proline",
+            "serialNumber": "12345B",
+            "username": "RobotIs"
+        },
+        {
+            "id": 3,
+            "brand": "Lenovo",
+            "serialNumber": "12345C",
+            "username": "Robot_Human"
+        }
+    ]
+}
