@@ -7,3 +7,5 @@ fetch("../data/data.json")
     let newInfo = info.laptop;
     console.table(newInfo)
 })
+
+// .then is for resolve .catch is for reject
